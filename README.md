@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi!<3
+
+I'm Samantha, she/her, an accessibility and human-computer-interaction researcher.
+I'm interested in computer graphics and enjoy making art with code.
 
 <!--
 **sjdobesh/sjdobesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
